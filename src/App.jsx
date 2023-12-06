@@ -1,6 +1,7 @@
+import TodoList from './features/todo-list.feature'
 
 function App() {
-  return <></>
+  return <TodoList />
 }
 
 export default App
